@@ -6,8 +6,8 @@
 int distance = 0;
 int len = 0;
 /* Set these to your desired credentials. */
-const char *ssid = "csabesz";
-const char *password = "szoposgeci";
+const char *ssid = "yournetwork";
+const char *password = "minimum8chars";
 int milisInterval = 2000;
 int count = 0;
 int buzerPin = D3; // pin for attaching the piezoelectric speaker
