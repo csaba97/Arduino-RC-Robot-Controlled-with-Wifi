@@ -1,8 +1,8 @@
 # Arduino RC Robot Controlled with Wifi module ESP8266
 Features:  
-• Short video: https://youtu.be/exTiyvPCQLw
-•	The robot can be moved forward and backward, rotate.  
-•	The robot can search for a parking place using an ultrasound sensor and park itself when it finds a suitable place.  
+• Short video: https://youtu.be/exTiyvPCQLw  
+•	The robot can be moved forward and backward, rotate.    
+•	The robot can search for a parking place using an ultrasound sensor and park itself when it finds a suitable place.    
 •	Set the speed of movement of the robot.  
 • Uses an ESP8266 module:
 
